@@ -519,7 +519,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
 
 ## Conclusion: 
 
-Kebanyakan manusia sangat terbantu dengan adanya supermarket untuk membeli barang atau makanan yang dibutuhkan. Pada supermarket banyak barang-barang yang dibutuhkan sehingga manusia dapat membeli barang tersebut dengan efisien karena barang-barang tersebut berada disatu tempat yaitu supermarket. Dengan adanya program ini akan menambah efisiensi dari customer dan pihak supermarket karena tidak bergantung pada *physical transcation*, cukup dengan smartphone dan internet sudah dapat membeli barang atau makanan di supermarket.       
+Kebanyakan manusia sangat terbantu dengan adanya supermarket untuk membeli barang atau makanan yang dibutuhkan. Pada supermarket banyak barang-barang yang dibutuhkan sehingga manusia dapat membeli barang tersebut dengan efisien karena barang-barang tersebut berada disatu tempat yaitu supermarket. Dengan adanya program ini akan menambah efisiensi dari customer dan pihak supermarket karena tidak bergantung pada *physical transcation*, cukup dengan smartphone dan internet sudah dapat membeli barang atau makanan di supermarket tersebut.       
 
 ## References: 
 - [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
