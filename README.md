@@ -46,6 +46,6 @@ Membuat sebuah program yang dapat melakukan *Create, Read, Update dan Delete*(CR
     
 ## Flowchart
 
-
+![flowchart drawio](https://user-images.githubusercontent.com/88027268/214074845-c78a2005-3d83-4864-918d-97f3a7ab1cd5.png)
 
 reference: [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
