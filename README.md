@@ -485,7 +485,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
     - Nama item: Pasta Gigi, Qty: 3 dan harga per item: 15000
 
     Hasil:
-    blablabla
+    ![image](https://user-images.githubusercontent.com/88027268/214100635-9de049a5-b2d0-4efe-8244-b2ccdded61c7.png)
     
     Gambar 3. Output test pertama
  
@@ -493,7 +493,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
     Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka customer menggunakan *method delete_item()* untuk menghapus item.   Item yang ingin dihapus adalah <b>Pasta Gigi</b>
 
     Hasil:
-    blablabla
+    ![image](https://user-images.githubusercontent.com/88027268/214100819-a2761058-cfcb-445e-91b4-253187db33e1.png)
     
     Gambar 4. Output test kedua
 
@@ -501,7 +501,8 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
     Ternyata setelah dipikir-pikir Customer salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu-satu, maka Customer cukup menggunakan *method reset_transaction()* untuk menghapus semua item yang sudah ditambahkan.
 
     Hasil:
-    blablabla
+    ![image](https://user-images.githubusercontent.com/88027268/214100989-9b397ece-bf1c-47cb-bee8-4438b556398e.png)
+    ![image](https://user-images.githubusercontent.com/88027268/214101071-f2f5bdb7-cd32-4eaf-9d62-d1f19e476d9a.png)
     
     Gambar 5. Output test ketiga
 
@@ -509,7 +510,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
     Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan *method total_price()*. Sebelum mengeluarkan output total belanja akan menampilkan item-item yang dibeli.
 
     Hasil:
-    blablabla
+    ![image](https://user-images.githubusercontent.com/88027268/214104472-cd46e89f-79d0-4874-b597-cb8b0eae5fd7.png)
     
     Gambar 6. Output test keempat
 
