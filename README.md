@@ -19,5 +19,5 @@ Bagian ini akan menjelaskan proses klarifikasi masalah.
 - Menghasilkan sebuah program yang dapat dijangkau hanya menggunakan internet saja tanpa harus secara langsung pergi ke supermarket tersebut.
 
     ### Solution statements
-    - Menggunakan bahasa pemrograman *python* dengan konsep *object oriented programming, Modular code, Error handling dan clean code* 
+    - Menggunakan bahasa pemrograman *python* dengan konsep *object oriented programming, Modular code, Error handling dan clean code*.
 
