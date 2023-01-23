@@ -475,4 +475,57 @@ def total_price(self):
               sum(int(self.data_all_item['Total Harga']) - (sum(self.data_all_item["Total Harga"]) * 0.0
 ```
 
-reference: [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
+## Test Case
+
+Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan bahwa program berjalan dengan lancar.
+
+1. Test pertama
+    Customer ingin menambahkan dua item baru menggunakan *method add_item()*. item yang ditambahkan adalah sebagai berikut:
+    - Nama item: Ayam Goreng, Qty: 2 dan harga per item: 20000
+    - Nama item: Pasta Gigi, Qty: 3 dan harga per item: 15000
+
+    Hasil:
+    blablabla
+    
+    Gambar 3. Output test pertama
+ 
+2. Test kedua
+    Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka customer menggunakan *method delete_item()* untuk menghapus item.   Item yang ingin dihapus adalah <b>Pasta Gigi</b>
+
+    Hasil:
+    blablabla
+    
+    Gambar 4. Output test kedua
+
+3. Test ketiga
+    Ternyata setelah dipikir-pikir Customer salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu-satu, maka Customer cukup menggunakan *method reset_transaction()* untuk menghapus semua item yang sudah ditambahkan.
+
+    Hasil:
+    blablabla
+    
+    Gambar 5. Output test ketiga
+
+3. Test keempat
+    Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan *method total_price()*. Sebelum mengeluarkan output total belanja akan menampilkan item-item yang dibeli.
+
+    Hasil:
+    blablabla
+    
+    Gambar 6. Output test keempat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+reference: 
+- [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
+- [tips membuat dokumentasi ekstensi .md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
