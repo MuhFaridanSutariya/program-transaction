@@ -22,7 +22,7 @@ Bagian ini akan menjelaskan proses klarifikasi masalah.
 - Meminimalisir terjadinya error atau bug pada program sehingga customer dapat berbelanja dengan lancar.
 - Menghasilkan sebuah program yang dapat dijangkau hanya menggunakan internet saja tanpa harus secara langsung pergi ke supermarket tersebut.
 
-    ### Solution statements
+    ### Solution statement
     - Menggunakan bahasa pemrograman *python* dengan konsep *object oriented programming, Modular code, Error handling dan clean code*.
 
 
