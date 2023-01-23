@@ -1,6 +1,6 @@
 # Super Cashier
 
-![image](https://user-images.githubusercontent.com/88027268/213963883-04867b59-6f8f-4420-992b-21d39fa3d376.png)
+![image](https://user-images.githubusercontent.com/88027268/213964997-b79e6193-dfeb-4eb8-9a81-d33a35810d89.png)
 
 Gambar 1. Illustrasi super cashier
 
