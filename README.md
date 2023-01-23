@@ -15,7 +15,7 @@ Bagian ini akan menjelaskan proses klarifikasi masalah.
 ### Problem Statements
 
 - Bagaimana menurunkan cost dari biaya pekerjaan kasir bagi pemilik supermarket?
-- Bagaimana sebuah supermarket dapat menjangkau customer dari daerah?
+- Bagaimana sebuah supermarket dapat menjangkau customer dari luar daerah?
 
 ### Goals
 
