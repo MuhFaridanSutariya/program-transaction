@@ -526,6 +526,6 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
 
 
 
-reference: 
+## References: 
 - [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
 - [tips membuat dokumentasi ekstensi .md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
