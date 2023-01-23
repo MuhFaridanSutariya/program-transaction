@@ -25,5 +25,24 @@ Bagian ini akan menjelaskan proses klarifikasi masalah.
     ### Solution statement
     - Menggunakan bahasa pemrograman *python* dengan konsep *object oriented programming, Modular code, Error handling dan clean code*.
 
+## Objectives
+
+Membuat sebuah program yang dapat melakukan Create, Read, Update dan delete(CRUD). 
+
+- <b>Create</b>
+    - Customer dapat memasukkan ID transaksi pada sistem.
+    - Customer dapat menambahkan nama item, jumlah item, harga per item dan sistem otomatis akan menghitung total harga berdasarkan jumlah item * harga per item.
+- <b>Read</b>
+    - Customer dapat melihat sebuah data tabular dari item order transaksi yang telah dilakukan.
+    - Customer dapat melakukan *sanity check* dari item order transaksi yang telah masuk kedalam sistem.
+    - Customer dapat melihat total biaya yang harus dibayar dari seluruh total biaya yang telah customer input dan melihat apakah mendapatkan sebuah potongan harga. 
+- <b>Update</b>
+    - Customer dapat mengubah nama item yang telah diinput sebelumnya berdasarkan nama item yang dimasukkan. 
+    - Customer dapat mengubah jumlah item yang telah diinput sebelumnya berdasarkan nama item yang dimasukkan dan total harga akan dapat menyesuaikan jumlah item terbaru.
+    - Customer dapat mengubah harga per item yang telah diinput sebelumnya berdasarkan nama item yang dimasukkan dan total harga akan dapat menyesuaikan harga per item terbaru.
+- <b>Delete</b>
+- Customer dapat menghapus salah satu item yang telah diinput berdasarkan nama item yang dimasukkan.
+- Customer dapat menghapus seluruh item yang telah masuk kedalam order transaksi.
+
 
 reference: [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
