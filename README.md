@@ -43,6 +43,9 @@ Membuat sebuah program yang dapat melakukan *Create, Read, Update dan Delete*(CR
 - <b>Delete</b>
     - Customer dapat menghapus salah satu item yang telah diinput berdasarkan nama item yang dimasukkan.
     - Customer dapat menghapus seluruh item yang telah masuk kedalam order transaksi.
+    
+## Flowchart
+
 
 
 reference: [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
