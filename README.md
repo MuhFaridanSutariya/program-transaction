@@ -41,8 +41,8 @@ Membuat sebuah program yang dapat melakukan Create, Read, Update dan delete(CRUD
     - Customer dapat mengubah jumlah item yang telah diinput sebelumnya berdasarkan nama item yang dimasukkan dan total harga akan dapat menyesuaikan jumlah item terbaru.
     - Customer dapat mengubah harga per item yang telah diinput sebelumnya berdasarkan nama item yang dimasukkan dan total harga akan dapat menyesuaikan harga per item terbaru.
 - <b>Delete</b>
-- Customer dapat menghapus salah satu item yang telah diinput berdasarkan nama item yang dimasukkan.
-- Customer dapat menghapus seluruh item yang telah masuk kedalam order transaksi.
+    - Customer dapat menghapus salah satu item yang telah diinput berdasarkan nama item yang dimasukkan.
+    - Customer dapat menghapus seluruh item yang telah masuk kedalam order transaksi.
 
 
 reference: [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
