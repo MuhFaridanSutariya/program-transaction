@@ -501,7 +501,6 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
     Ternyata setelah dipikir-pikir Customer salah memasukkan item yang ingin dibelanjakan! Daripada menghapusnya satu-satu, maka Customer cukup menggunakan *method reset_transaction()* untuk menghapus semua item yang sudah ditambahkan.
 
     Hasil:
-    ![image](https://user-images.githubusercontent.com/88027268/214100989-9b397ece-bf1c-47cb-bee8-4438b556398e.png)
     ![image](https://user-images.githubusercontent.com/88027268/214101071-f2f5bdb7-cd32-4eaf-9d62-d1f19e476d9a.png)
     
     Gambar 5. Output test ketiga
