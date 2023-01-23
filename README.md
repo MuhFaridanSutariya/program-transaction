@@ -6,7 +6,7 @@ Gambar 1. Illustrasi super cashier
 
 ## Proyek overview
 
-Kasir adalah salah satu profesi yang bertugas mengurus transaksi dan menyimpan pembayaran seperti uang tunai maupun giro. Kasir sendiri memiliki beberapa *job desk* seperti mencatat data penjualan, Melakukan proses transaksi penjualan, Membuat laporan rutin dan Merekap laporan transaksi penjualan. Proyek ini bertujuan agar supermarket dapat menimalisir cost yang harus dibayarkan kepada pekerjaan kasir sehingga dapat uang tersebut dapat dialokasikan ke bagian yang lebih penting, seperti meningkatkan kualitas produk yang dijual, menjual produk yang lebih beragam dan memaksimalkan *campaign* produk.
+Kasir adalah salah satu profesi yang bertugas mengurus transaksi dan menyimpan pembayaran seperti uang tunai maupun giro. Kasir sendiri memiliki beberapa *job desk* seperti mencatat data penjualan, Melakukan proses transaksi penjualan, Membuat laporan rutin dan Merekap laporan transaksi penjualan. Proyek ini bertujuan agar supermarket dapat menimalisir cost yang harus dibayarkan kepada pekerjaan kasir sehingga uang tersebut dapat dialokasikan ke bagian yang lebih penting, seperti meningkatkan kualitas produk yang dijual, menjual produk yang lebih beragam dan memaksimalkan *campaign* produk.
 
 ## Business Understanding
 
