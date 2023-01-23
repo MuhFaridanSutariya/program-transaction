@@ -57,6 +57,16 @@ proyek ini terdiri dari 2 file yaitu main.py dan modul.py yang masing-masing mem
 - file modul.py digunakan sebagai modul yang berisi *class, function dan attributes*. penjelasan dari isi file sebagai berikut:
 
 ```
+import pandas as pd
+import os
+
+"""
+Sebuah code untuk memanggil library pandas dan os. library pandas digunakan untuk melakukan visualisasi data dalam bentuk tabular sedangkan os digunakan untuk melakukan exit program.
+"""
+```
+
+
+```
 class Transaction:
     """
     Sebuah class untuk kasir self-service disupermarket
