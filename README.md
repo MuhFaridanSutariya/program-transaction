@@ -27,7 +27,7 @@ Bagian ini akan menjelaskan proses klarifikasi masalah.
 
 ## Objectives
 
-Membuat sebuah program yang dapat melakukan Create, Read, Update dan delete(CRUD). 
+Membuat sebuah program yang dapat melakukan *Create, Read, Update dan Delete*(CRUD). 
 
 - <b>Create</b>
     - Customer dapat memasukkan ID transaksi pada sistem.
