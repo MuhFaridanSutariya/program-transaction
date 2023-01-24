@@ -491,7 +491,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
     Gambar 3. Output test pertama
  
 2. Test kedua
-    Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka customer menggunakan *method delete_item()* untuk menghapus item.   Item yang ingin dihapus adalah <b>Pasta Gigi</b>
+    Ternyata Customer salah membeli salah satu item dari belanjaan yang sudah ditambahkan, maka customer menggunakan *method delete_item()* untuk menghapus item.   Item yang ingin dihapus adalah <b>Pasta Gigi</b>.
 
     Hasil:
     
