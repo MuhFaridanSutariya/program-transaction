@@ -53,7 +53,7 @@ Gambar 2. Flowchart super cashier
 ## Technical explain
 
 proyek ini terdiri dari 2 file yaitu main.py dan modul.py yang masing-masing memiliki kegunaan.
-- file main.py digunakan sebagai file utama untuk menjalankan program *super cashier* dan hanya berisi berisi object dari class Transaction.
+- file main.py digunakan sebagai file utama untuk menjalankan program *super cashier* dan hanya berisi object dari class Transaction.
 - file modul.py digunakan sebagai modul yang berisi *class, function dan attributes*. penjelasan dari isi file sebagai berikut:
 
 ```
