@@ -521,7 +521,7 @@ Pada bagian ini program akan dilakukan beberapa testing berbeda untuk memastikan
 
 Kebanyakan manusia sangat terbantu dengan adanya supermarket untuk membeli barang atau makanan yang dibutuhkan. Pada supermarket banyak barang-barang yang dibutuhkan sehingga manusia dapat membeli barang tersebut dengan efisien karena barang-barang tersebut berada disatu tempat yaitu supermarket. Dengan adanya program ini akan menambah efisiensi dari customer dan pihak supermarket karena tidak bergantung pada *physical transcation*, cukup dengan smartphone dan internet sudah dapat membeli barang atau makanan di supermarket tersebut. 
 
-Harapan saya pada program ini kedepannya adalah dapat mengimplementasikan program ini menjadi sebuah aplikasi mobile atau website yang memiliki tampilan interaktif dan menarik. Menambahkan beberapa fitur, salah satunya seperti setiap transaksi customer akan mendapatkan point dan point tersebut dapat digunakan untuk membeli barang di supermarket tersebu. Menyimpan seluruh data customer, transaksi dan barang ke sebuah database.
+Harapan saya pada program ini kedepannya adalah dapat mengimplementasikan program ini menjadi sebuah aplikasi mobile atau website yang memiliki tampilan interaktif dan menarik. Menambahkan beberapa fitur, salah satunya seperti setiap transaksi customer akan mendapatkan point dan point tersebut dapat digunakan untuk membeli barang di supermarket tersebut secara gratis. Menyimpan seluruh data customer, transaksi dan barang ke sebuah database.
 
 ## References: 
 - [apa itu kasir?](https://www.ekrut.com/media/kasir-adalah)
